@@ -1,2 +1,2 @@
-# projects2022
-Projects created throughout the current year.
+# patient-search
+A program to search for a patient and their information. Written in python.
